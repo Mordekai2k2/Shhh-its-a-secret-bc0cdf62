@@ -4,12 +4,12 @@ Body {
     background-size: 100%;
 }
 h1 {
-    color: White;
+    color: darkgray;
     font-size: 400%;
 }
 label {
     font-size: 150%;
-    color: white;
+    color: darkgray;
     border-radius: 30px;
     text-align: center;
 }
